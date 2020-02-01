@@ -1,4 +1,6 @@
 *.pyc
+*.log
+.vagrant
 build/*.o
 a.out
 *.o
@@ -6,3 +8,6 @@ a.out
 lvl-ip
 tests/venv
 vgcore*
+tools/liblevelip.so
+apps/curl/curl
+apps/curl-poll/curl-poll
